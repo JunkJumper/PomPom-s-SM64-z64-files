@@ -1,0 +1,22 @@
+StarRevenge 6.5 - Wrath of the Dim. Flower hack by BroDute.
+
+Credits:
+Levels by BroDute
+Music from SMW Ceantral (like Megaman511again)
+Textures from SMW Central (Texture packs from Vinnyboiler, messian
+                                             Mr. GreenThunder) and some by BroDute
+Makes use of Kaze's music changer in some levels.
+Hack was made with Toad's Tool 64, Google Sketchup 8, OBJ importer etc.
+Original game by Nintendo <3
+
+This is a different Version of SR6 LA. You can find 70 stars in it. All stars in the main courses
+have a word long name and are hidden like most of the green stars in Mario Galaxy 2.
+All levels are changed in some way to let them look different.
+There are no cap levels or even caps in this hack.
+There are 5 overworld stars (one you will only get for 69 stars).
+You need to beat SR6 with 120 stars to play this hack, since there levels are a bit harder and if you know the
+layout of the levels it will be a bit easyer to find stuff.
+
+Note: There are some invi walls near the tower in course 8!
+
+This hack has only the first 9 main courses and the 3 Bowser levels. The 3 bosses are also different now.

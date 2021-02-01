@@ -1,0 +1,23 @@
+Thanks for downloading this SM64 ROM hack "Star Revenge 0.5" v1.0.1
+This was made by BroDute and the original game by Nintendo.
+
+You can find 65 stars and 7 main courses.
+The main and cap levels in this hack are all based of unused
+levels that were still on my pc left.
+
+The hack is easy to normal hold and works like the normal SM64.
+
+Note: There are sometimes bugs with the music like after getting a 100 coins star in the desert. If
+really every sound disappers - even the soundeffects - you should reload the hack!
+
+v1.0.1 changes:
+-Fixed the World 1 death trap so there is no more death trap.
+-Fixed the wrong warp in the first floor of the castle.
+-Made a new power meter ^^
+
+- Have fun
+
+(Give feedback if you want just don't let it be to flat like: "Bad hack, didn't liked any level" or "Great hack, do something lika that again"
+It is alsways nice to hear such stuff, but if you don't tell me what you like or hate, I cannot do something about/ against that and just continue on.)
+
+2nd Note: There is only a german version, since the original was also in german.

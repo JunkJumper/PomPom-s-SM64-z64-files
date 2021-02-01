@@ -1,0 +1,21 @@
+Thanks for downloading StarRevenge4: The Kedama Takeover 64
+
+This is a SM64 Hack by BroDute!
+
+This hack has 96 stars to find. There is no star select screen for any course, but
+if you cannot find stars or are not very sure about the stars you have, then look in
+the stars.txt, there is every star + name.
+You can look how many stars you have just by pressing START in a level or on the Overwordl (Peach's Castle).
+
+Story: While Mario was on holidays with Peach stange white creatures called Kedamas (°A°) are trying
+to take over the Mushroom Kingdom and they are stealing the stars from Peach's castle.
+
+So, you may ask, WHY are there 3 more zip files? Well a strange bug keept me away to
+place the cap switches in the game, so I made 3 extra Rom with the switches. You just open them,
+press the switch and continue on the main game. The password for the zips are in the game where
+the switches were originally planed.
+
+If you are good at ASM and can fix that bug for me in the RAM, then send me the fixed version so I
+can cange everything :3
+
+For more informations ask the Toad at the beginning!
